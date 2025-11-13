@@ -1,7 +1,4 @@
 {
   "buildCommand": "npm run build",
-  "outputDirectory": "dist",
-  "env": {
-    "REACT_APP_OPENAI_KEY": "@react_app_openai_key"
-  }
+  "outputDirectory": "dist"
 }
